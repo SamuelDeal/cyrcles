@@ -1,0 +1,16 @@
+[package]
+name = "cyrcle-daemon"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sam"]
+description = """"""
+readme = "../Readme.md"
+keywords = ["deamon", "auth"]
+license = "GPL-3"
+publish = false
+#default-run = "cyrcle-daemon"
+
+# [[bin]]
+# name = "cyrcle-daemon"
+
+[dependencies]

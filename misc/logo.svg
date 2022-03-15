@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\Sam\Projects\cyrcles\logo$.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="128.32656"
+     inkscape:cy="561.93525"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke-width:0.264583"
+       id="path152"
+       cx="123.12455"
+       cy="169.05054"
+       rx="11.372419"
+       ry="22.744839" />
+    <circle
+       style="fill:none;stroke:#e13dff;stroke-width:1.73127;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3567"
+       cx="93.102882"
+       cy="184.95486"
+       r="37.125343" />
+    <circle
+       style="fill:none;stroke:#e13dff;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3911"
+       cx="89.886284"
+       cy="177.09206"
+       r="9.113718" />
+    <path
+       style="fill:none;stroke:#e13dff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 117.58483,212.65343 c 0,0 0,0.3574 -5.361,3.2166 -5.36101,2.85921 -5.71842,-7.86281 -5.36101,-16.79783 0.35739,-8.93502 -7.862821,-10.72202 -7.862821,-10.72202 H 83.274367 c 0,0 -7.266003,-0.74642 -10.722022,12.15162 -0.7148,7.50542 -0.7148,7.50542 -0.7148,7.50542"
+       id="path4067" />
+  </g>
+</svg>

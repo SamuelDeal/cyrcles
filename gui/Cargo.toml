@@ -1,0 +1,41 @@
+[package]
+name = "cyrcle-gui"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sam"]
+description = """"""
+readme = "../Readme.md"
+keywords = ["deamon", "auth"]
+license = "GPL-3"
+publish = false
+build = "build.rs"
+default-run = "cyrcle-gui"
+
+
+# [[bin]]
+# name = "cyrcle"
+
+#[dependencies]
+#slint = "0.2.0"
+
+#[build-dependencies]
+#slint-build = "0.2.0"
+
+[features]
+default = ["wingui"]
+wingui = ["native-windows-gui", "native-windows-derive"]
+gtk= ["gtk4"]
+
+
+[dependencies]
+cyrcle-common = { path = "../common", version = "0.1", default-features = false }
+
+
+gtk4 = { version = "0.4", optional= true}
+which = '4.2'
+
+[target.'cfg(target_os="windows")'.dependencies]
+native-windows-gui = { version = "1.0.12", optional= true }
+native-windows-derive = { version = "1.0.3", optional=true } # Optional. Only if the derive macro is used.
+
+

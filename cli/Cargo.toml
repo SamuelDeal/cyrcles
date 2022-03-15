@@ -1,0 +1,15 @@
+[package]
+name = "cyrcle-cli"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sam"]
+description = """"""
+readme = "../Readme.md"
+keywords = ["cli", "auth"]
+license = "GPL-3"
+publish = false
+
+#[[bin]]
+#filename = "cycli"
+
+[dependencies]

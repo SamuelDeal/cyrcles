@@ -1,0 +1,26 @@
+
+# Ignore hidden files, but keep important files
+.*
+!.keep
+!.gitignore
+!.gitattributes
+!.editorconfig
+
+# Ignore logs
+*.log
+
+# Ignore temp files
+*~
+
+# Ignore common system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+
+# Added by cargo
+/target
